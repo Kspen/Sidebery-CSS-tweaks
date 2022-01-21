@@ -29,6 +29,12 @@ My CSS for Sidebery - sidebar and groups, with red gradient theme.
   --tabs-height: 44px !important;
 }
 ```
+![Sample Sidebar (Collapsed)](/sidebery-sidebar01.jpg)
+![Sample Sidebar (Expanded)](/sidebery-sidebar02.jpg)
+
+
+
+
 ## Begin groups page
 ```
 /* group page */
