@@ -85,4 +85,4 @@ My CSS for Sidebery - sidebar and groups, with red gradient theme.
 }
 ```
 
-![Sample Groups Tab Page](/assets/images/sidebery-groups-page.jpg)
+![Sample Groups Tab Page](/sidebery-groups-page.jpg)
